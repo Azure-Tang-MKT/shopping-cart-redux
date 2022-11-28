@@ -1,0 +1,12 @@
+.GridItem {
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  align-items: center;
+  border-radius: 6px;
+  background-color: aliceblue;
+}
+
+.GridItem img {
+  width: 200px;
+}
